@@ -1,0 +1,102 @@
+body {
+    background: rgb(3,41,80);
+    font: normal 100% Verdana;
+    margin: 0;
+    color: #555;
+    text-align: justify;
+}
+
+body > * {
+    width: 1000px;
+    padding: 20px;
+    margin: 20px auto;
+    background: white;
+    text-align: justify;
+}
+
+table{
+    border-collapse: separate; 
+    border-spacing: 5px 5px;  /* 水平间距 垂直间距 */
+}
+
+a {
+    color: #28D;
+    text-decoration: none;
+    height: 50%;
+}
+
+cite {
+ font: normal 80% sans-serif;
+}
+
+
+h1 {
+    margin: 0;
+}
+h2 {
+    font-size: 150%;
+    margin: 0;
+}
+h3, h4, h5, h6 {
+    margin: 0;
+    font-size: 120%;
+}
+
+
+a strong {
+  color: inherit;
+  font-weight: 900;
+}
+
+strong {
+  font-weight: 700;
+  color: #151515;
+}
+
+em {
+  font-weight: 100;
+}
+
+ul {
+    list-style-type: square;
+    padding: 0 1em;
+}
+
+li {
+    padding:  5px;
+}
+
+td { padding: 0px 5px 0px 0px; }
+
+code, pre, tt {
+    font: 12pt monospace;
+}
+
+pre {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 0.5em;
+}
+
+
+header {
+    position: relative;
+}
+
+header nav {
+    font-size: 110%;
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+
+header nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+header nav li {
+    display: inline-block;
+    margin: 0 0.15em;
+    vertical-align: middle;
+}
