@@ -96,7 +96,7 @@
 .zhidu ul li span { font-family: Cambria; font-style: oblique; float: right; color: #646464; }
 
 /*图片轮播*/
-.Banner { max-width:1380px; margin:0 auto; }
+.Banner { max-width:1380; margin:0 auto; }
 .slider{ position:absolute; bottom:16%; left:5%;background:url(../images/textbg.png) repeat; padding:10px;  font-size:20px;transition: all 0.3s ease;  color:#fff;}
 .flex-direction-nav .flex-prev { width:50px; height:50px; background:url(arrow_left.png); position:absolute; left:20px; top:50%; margin:-25px 0 0 0; z-index:9999; text-indent:9999px; }
 .flex-direction-nav .flex-next { width:50px; height:50px; background:url(arrow_right.png); position:absolute; right:20px; top:50%; margin:-25px 0 0 0;  z-index:9999; text-indent:9999px; }
