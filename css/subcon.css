@@ -42,8 +42,6 @@
 .sub_left h2{font-size: 20px; color: #fff; background: #1d4c90; text-align: center; }
 .sub_left h2 a{color:#fff;font-size:20px;}
 .sub_left ul{}
-/*.sub_left li a{color:#282828;font-size:16px;font-family:Helvetica;display:block;width:auto;padding:14px 0 14px 17px;border-bottom:1px solid #d3d3d3;border-top:1px solid #fff;}
-.sub_left li a:hover,.sub_left li a.active{color:#fff;background:url(../images/icon11.png) no-repeat 97% center;background-color:#ffb200;}*/
 .sub_left li { font-size: 14px; text-align: center; position:relative;  }
 .sub_left li a{font-size: 16px; padding:15px 20px 15px 10px; text-align: center; border-bottom:1px solid #ccc; display:block;}
 .sub_left li a:hover,.sub_left li a.active{font-weight: bold; border-bottom:2px solid #1d4c90; color: #003770; }
@@ -68,12 +66,24 @@
 .offenLink li a.L03{background-color:#4aa508;}
 .offenLink li a.L04{background-color:#9f4fa6;}
 .offenLink li a.L05{background-color:#00988c;}
-/*右侧*/
+
 .sub_right{margin:0 0 30px 280px; min-height: 600px; }
 .sub_right01 {  margin: 0 0 30px 0; }
-.pageArticle{}
+
+
+/* 2021-05-31 gaofeng revised code */
+.pageArticle { overflow:hidden;}
+.pageArticle ul li { overflow: hidden; font-size: 1.4em; line-height: 35px; }
+.pageArticle ul li a { float: none; }
+.pageArticle ul li span { font-family: Cambria; font-style: oblique; float: right; color: #646464; }
+
+
+
+
+
+
 .articleTitle{width:auto;overflow:hidden;}
-.articleTitle h2{width:auto;overflow:hidden;font-size:1.6em;font-weight:normal;family:Arial;/*height:70px;line-height:70px;*/padding:20px 15px; }
+.articleTitle h2{width:auto;overflow:hidden;font-size:1.6em;font-weight:normal;family:Arial; padding:20px 15px; }
 .wrapSize{width:50%;overflow:hidden;float:right;height:60px;}
 .size{ height:27px; line-height:27px;width:175px;float:right;margin-top:25px;}
 .size a{ margin-right:18px; display:block; width:27px; height:27px; float:left}
