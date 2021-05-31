@@ -73,7 +73,7 @@
 
 /* 2021-05-31 gaofeng revised code */
 .pageArticle { overflow:hidden;}
-.pageArticle ul li { overflow: hidden; font-size: 1.4em; line-height: 35px; }
+.pageArticle ul li { overflow: hidden; line-height: 35px; }
 .pageArticle ul li a { float: none; }
 .pageArticle ul li span { font-family: Cambria; font-style: oblique; float: right; color: #646464; }
 
