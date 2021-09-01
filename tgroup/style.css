@@ -12,7 +12,8 @@ html {
 
 body {
 	background: white;
-	font-family: Helvetica, Tahoma, "Heiti SC", "Microsoft YaHei";
+	font-family: Calibri, "Heiti SC", "Microsoft YaHei";
+	font-size: 1.0em;
 	text-align:left;
   	margin-top: 30px; 
   	margin-bottom: 10px;
@@ -104,7 +105,6 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	/*border-bottom: 3px double gray;*/
 }
 
 /* Reduce space if we begin the page with a title. */
