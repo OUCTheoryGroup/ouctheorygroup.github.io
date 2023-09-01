@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 html{background:#FFF;}
-body{font-size:63%;/*font-family:"\5FAE\8F6F\96C5\9ED1", SimSun;*/background-color:#fff;color: #444;font-family:"微软雅黑",'Microsoft YaHei',SimSun,SimHei ,"STHeiti Light",STHeiti,"Lucida Grande", Tahoma,Arial, Helvetica, sans-serif;}
+body{font-size:70%; font-family: 'Times New Roman'; background-color:#fff;color: #444;}
 html,body,address,blockquote,div,dl,form,h1,h2,h3,h4,h5,h6,ol,p,pre,table,ul,dd,dl,dt,li,tbody,td,tfoot,th,thead,tr,button,del,ins,map,object,a,abbr,acronym,b,bdo,big,br,cite,code,dfn,em,i,img,kbd,q,samp,small,span,strong,sub,sup,tt,var,legend,fieldset{margin:0px;padding:0px;color: #323232; -webkit-font-smoothing: subpixel-antialiased;}
 table{border-collapse:collapse;border-spacing:0;width:100%;}
 fieldset,img{border:0;}

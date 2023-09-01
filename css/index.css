@@ -45,7 +45,7 @@
 .news_con img { width: 271px; height: 176px; }
 .news_con dl dd { padding: 0 0 0 21px; border-left: 1px solid #003770; margin: 0 0 30px 0; }
 .news_con a { font-size: 1.4em;  line-height: 22px;  display: block; width: 92%}
-.news_con p { font-family: Cambria; font-size: 1.4em; color: #646464; padding: 8px 0 0 0; font-style: oblique; }
+.news_con p { font-family: 'Times New Roman', Times, serif; font-size: 1.4em; color: #646464; padding: 8px 0 0 0; font-style: oblique; }
 
 .news_con dl.right dd { border-left: 1px solid #cebb1e; }
 
@@ -57,8 +57,8 @@
 .tongzhi ul { margin: 30px 0 0 0; }
 .tongzhi ul li { height: 69px; margin: 0 0 27px 0; overflow: hidden; }
 .tongzhi ul li .date { width: 68px; height: 69px; background: url(../images/date_bg_03.png) no-repeat; display: inline-block; float: left; margin: 0 22px 0 0; }
-.tongzhi ul li .day { height: 38px; line-height: 38px; font-size: 25px; font-family: Cambria; color: #fbd99c; width: 35px; display: block; border-bottom: 1px solid #fbd99c; margin: 0 auto; }
-.tongzhi ul li .month { height: 30px; line-height: 30px; margin: 0 auto; font-size: 14px; font-family: Cambria; color: #fbd99c; width: 35px; display: block; }
+.tongzhi ul li .day { height: 38px; line-height: 38px; font-size: 25px; font-family: 'Times New Roman', Times, serif; color: #fbd99c; width: 35px; display: block; border-bottom: 1px solid #fbd99c; margin: 0 auto; }
+.tongzhi ul li .month { height: 30px; line-height: 30px; margin: 0 auto; font-size: 14px; font-family: 'Times New Roman', Times, serif; color: #fbd99c; width: 35px; display: block; }
 .tongzhi ul li a { width: 364px; display: inline-block; float: left; font-size: 1.4em; line-height: 25px; margin: 10px 0 0 0; }
 
 
@@ -81,7 +81,7 @@
 .xueshu ul { margin: 15px 0 0 0; }
 .xueshu ul li { overflow: hidden; font-size: 1.4em; line-height: 35px; padding: 0 0 0 23px; background: url(../images/li_03.png) no-repeat left center; }
 .xueshu ul li a { float: left; }
-.xueshu ul li span { font-family: Cambria; font-style: oblique; float: right; color: #646464; }
+.xueshu ul li span { font-family: 'Times New Roman', Times, serif; font-style: oblique; float: right; color: #646464; }
 
 
 
@@ -93,7 +93,7 @@
 .zhidu ul { margin: 15px 0 0 0; }
 .zhidu ul li { overflow: hidden; font-size: 1.4em; line-height: 35px; padding: 0 0 0 23px; background: url(../images/li_03.png) no-repeat left center; }
 .zhidu ul li a { float: left; }
-.zhidu ul li span { font-family: Cambria; font-style: oblique; float: right; color: #646464; }
+.zhidu ul li span { font-family: 'Times New Roman', Times, serif; font-style: oblique; float: right; color: #646464; }
 
 /*图片轮播*/
 .Banner { max-width:1380; margin:0 auto; }
