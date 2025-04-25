@@ -1,1 +1,0 @@
-import{_ as s,c as t,D as a,b as n}from"./index-CPnqO15T.js";const c={},o={class:"uncertainty-container"};function r(i,e){return n(),t("div",o,e[0]||(e[0]=[a("div",{class:"developing-message"},"正在开发中",-1)]))}const _=s(c,[["render",r],["__scopeId","data-v-56a7d910"]]);export{_ as default};
