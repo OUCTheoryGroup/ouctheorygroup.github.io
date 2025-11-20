@@ -1,1 +1,0 @@
-import{_ as o}from"./index-C1CCG6bP.js";import{_ as n,m as t,o as _}from"./index-BR1so6ji.js";const c={};function r(s,p){const e=o;return _(),t(e,{title:"提醒",description:"此页面正在进行重构与升级，部分功能暂不可用。我们正在加紧开发，感谢你的耐心。",meta:""})}const i=n(c,[["render",r]]);export{i as default};
